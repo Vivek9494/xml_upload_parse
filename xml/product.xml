@@ -1,0 +1,375 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="catalog.xsl" type="text/xsl"?>
+<!DOCTYPE catalog SYSTEM "catalog.dtd">
+<catalog>
+   <product description="Cardigan Sweater" product_image="cardigan.jpg">
+      <catalog_item gender="Men's">
+         <item_number>QWZ5671</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5672</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5673</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5681</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5691</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5682</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5683</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5684</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5685</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5686</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5687</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5688</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5689</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5690</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5693</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5694</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5695</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5696</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5697</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5698</item_number>
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <item_number>QWZ5671</item_number>
+         <price>41.95</price>
+         <size description="Medium">
+            <color>Green</color>
+            <color>Blue</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+      </catalog_item>
+      <catalog_item gender="Women's">
+         <item_number>RRX9856</item_number>
+         <price>42.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <size description="Large">
+            <color>Navy</color>
+            <color>Black</color>
+         </size>
+         <size description="Extra Large">
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <item_number>RRX9851</item_number>
+         <price>40.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <item_number>RRX9852</item_number>
+         <price>41.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <size description="Large">
+            <color>Navy</color>
+            <color>Black</color>
+         </size>
+         <item_number>RRX9857</item_number>
+         <price>42.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <size description="Large">
+            <color>Navy</color>
+            <color>Black</color>
+         </size>
+         <size description="Extra Large">
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <item_number>RRX9858</item_number>
+         <price>40.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <item_number>RRX9859</item_number>
+         <price>41.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <size description="Large">
+            <color>Navy</color>
+            <color>Black</color>
+         </size>
+         <item_number>RRX9856</item_number>
+         <price>42.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <size description="Large">
+            <color>Navy</color>
+            <color>Black</color>
+         </size>
+         <size description="Extra Large">
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <item_number>RRX9859</item_number>
+         <price>40.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <item_number>RRX9860</item_number>
+         <price>41.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <size description="Large">
+            <color>Navy</color>
+            <color>Black</color>
+         </size>
+
+      </catalog_item>
+   </product>
+</catalog>
